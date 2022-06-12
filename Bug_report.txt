@@ -1,0 +1,11 @@
+ID
+Title
+Summure
+Precondition
+Steps
+Enviroment
+Expected_result
+Actual result
+Priority
+Severity
+Author
